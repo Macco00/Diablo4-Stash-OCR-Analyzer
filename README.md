@@ -27,6 +27,10 @@ enemies. Whenever a Crowd
 Controlled enemy deals direct
 damage to you, gain 15%[+]
 Movement Speed for 2 seconds.
+
+
+
+
 (Rogue Only)
 
 Back to AutoHotkey, using these text files, all marked items get a GUI element written on top of them displaying if it’s a wanted aspect, and/or a duplicate.
@@ -34,7 +38,10 @@ Back to AutoHotkey, using these text files, all marked items get a GUI element w
 <img src="https://github.com/Macco00/Diablo4-Stash-OCR-Analyzer/blob/main/stashres.png" alt="Result" width="700" />
 
 ## Demo
-<img src="https://github.com/Macco00/Diablo4-Stash-OCR-Analyzer/blob/main/stashdemo-speed.gif" alt="Demo" width="900" />
+
+https://github.com/Macco00/Diablo4-Stash-OCR-Analyzer/assets/3450735/df8a266b-3a0f-435f-baef-f6e1971d37d5
+
+
 
 
 
