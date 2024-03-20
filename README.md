@@ -3,13 +3,11 @@
 
 This project was created during the launch of Diablo4 when the ability to remove duplicate items or search for specific aspects was not a feature. It was also my first big project and hence is very cluttered and spagettified. 
 
-The program uses two GUIs made in AutoHotkey V.2, one placed on top of the game to showcase the program’s abilities, and another to configure the settings. The settings configuration focuses on the user searching for specific aspects split across the game’s different classes. Since elements are drawn on the screen relative to the upper left corner of one’s monitor, two resolution options are also provided.
+The program uses two GUIs made in [AutoHotkey V.2](https://www.autohotkey.com/), one placed on top of the game to showcase the program’s abilities, and another to configure the settings. The settings configuration focuses on the user searching for specific aspects split across the game’s different classes. Since elements are drawn on the screen relative to the upper left corner of one’s monitor, two resolution options are also provided.
 
 Overlay Menu            |  Options
 :-------------------------:|:-------------------------:
 <img src="https://github.com/Macco00/Diablo4-Stash-OCR-Analyzer/blob/main/menu.png" alt="menu" width="250" />  |  <img src="https://github.com/Macco00/Diablo4-Stash-OCR-Analyzer/blob/main/options.png" alt="options" width="500" />
-
-
 
 The in-game stash consists of a 10x5 grid and displays an item’s information while the mouse hovers over its position. Once the mouse hovers over the first position, a Python script takes a relative screenshot of the item’s informational banner instead of the entire screen to save time. This continues from left-to-right, top-to-bottom, or until the user moves the mouse to the designated end area.
 
