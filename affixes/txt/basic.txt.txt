@@ -1,0 +1,321 @@
++[3.1 - 7.3]% Total Armor
+
++[7 - 14]% Barrier Generation
+
++[10.5 - 17.5]% Blood Orb Healing
+
+[13 - 20]% Slow Duration Reduction
+
+[4.4 - 10]% Cooldown Reduction
+
++[28 - 42] Intelligence
+
++[49 - 63] Strength
+
++[10 - 18] All Stats
+
++[1.8 - 5]% Critical Strike Chance
+
++[14 - 21]% Critical Strike Damage
+
++[14 - 21]% Critical Strike Damage with Imbued Skills
+
++[4.4 - 10]% Damage
+
+[13 - 20]% Damage Reduction from Distant Enemies
+
+[7 - 14]% Damage Reduction from Enemies That Are Burning
+
++[18.5 - 39.5]% Basic Skill Damage
+
++[12.5 - 19.5]% Core Skill Damage
+
++[14 - 21]% Brawling Skill Damage
+
++[7 - 14]% Darkness Skill Damage
+
++[14 - 21]% Imbuement Skill Damage
+
++[7 - 14]% Marksman Skill Damage
+
++[7 - 14]% Summoning Skill Damage
+
++[7 - 14]% Werebear Skill Damage
+
++[7 - 14]% Fire Damage
+
++[7 - 14]% Poison Damage
+
++[7 - 14]% Fire Damage Over Time
+
++[14 - 28]% Damage with Skills that Swap to New Weapons
+
++[7 - 14]% Damage with Dual-Wielded Weapons
+
++[7 - 14]% Damage while Shapeshifted
+
++[7 - 14]% Damage to Burning Enemies
+
++[16.5 - 23.5]% Damage to Daze Enemies
+
++[21 - 35]% Damage to Injured Enemies
+
++[7 - 14]% Damage to Affected By Shadow Damage Over Time Enemies
+
++[7 - 14]% Damage to Enemies Affected by Trap Skills
+
+[4.4 - 8.6]% Dodge Chance Against Close Enemies
+
++[15 - 22]% Fortify Generation
+
++[0.02 - 0.048] Life Regeneration while Not Damaged Recently
+
++[5 - 12]% Lucky Hit Chance while You Have a Barrier
+
+Lucky Hit: Up to a 5% Chance to Restore +[7 - 14]% Primary Resource
+
++[6 - 12] Maximum Energy
+
++[10 - 18] Maximum Fury
+
++[6 - 12] Maximum Mana
+
++[10.5 - 17.5]% Movement Speed
+
++[14 - 28}}1%I] Overpower Damage ---------------------------
+
++[7 - 14]% Minion Attack Speed
+
+Mages Inherit +[4.2 - 7]% of Your Thorns
+
++[12 - 26]% Potion Drop Rate
+
+[24.5 - 45.5]% Lightning Resistance
+
+[5 - 12]% Resource Generation
+
+[9.5 - 16.5]% Spirit Cost Reduction
+
+[4.2 - 7]% Essence Cost Reduction
+
+[9.5 - 16.5]% Mana Cost Reduction
+
++[9.5 - 16.5]% Shrine Buff Duration
+
++[0.21 - 0.42] Thorns
+
++[7 - 14]% Total Armor while in Werewolf Form
+
++[4.4 - 10]% Attack Speed
+
++[7 - 14]% Damage while Berserking
+
++[5 - 12]% Crowd Control Duration
+
+[4.4 - 10]% Imbuement Skill Cooldown Reduction
+
++[28 - 42] Dexterity
+
++[49 - 63] Intelligence
+
++[28 - 42] Willpower
+
++[20 - 28] All Stats
+
++[4.5 - 12]% Critical Strike Chance Against Injured Enemies
+
++[14 - 21]% Critical Strike Damage with Bone Skills
+
++[14 - 21]% Lightning Critical Strike Damage
+
+[3.1 - 7.3]% Damage Reduction
+
+[17.5 - 31.5]% Damage Reduction while Injured
+
+[7 - 14]% Damage Reduction from Enemies That Are Poisoned
+
++[14 - 28]% Crackling Energy Damage
+
++[7 - 14]% Blood Skill Damage
+
++[14 - 21]% Companion Skill Damage
+
++[7 - 14]% Earth Skill Damage
+
++[7 - 14]% Cutthroat Skill Damage
+
++[7 - 14]% Shock Skill Damage
+
++[14 - 21]% Trap Skill Damage
+
++[7 - 14]% Werewolf Skill Damage
+
++[7 - 14]% Lightning Damage
+
++[7 - 14]% Shadow Damage
+
++[7 - 14]% Shadow Damage Over Time
+
++[7 - 14]% Damage with Two-Handed Bludgeoning Weapons
+
++[7 - 14]% Damage with Ranged Weapons
+
++[7 - 14]% Imbued Skill Damage
+
++[9.5 - 16.5]% Damage to Crowd Controlled Enemies
+
++[16.5 - 23.5]% Damage to Distant Enemies
+
++[16.5 - 23.5]% Damage to Close Enemies
+
++[16.5 - 23.5]% Damage to Bleeding Enemies
+
++[16.5 - 23.5]% Vulnerable Damage
+
+[4.9 - 10.5]% Dodge Chance Against Distant Enemies
+
+[7 - 14]% Damage Reduction while Fortified
+
++[5.4 - 11]% Lucky Hit Chance
+
++[4.2 - 7]% Lucky Hit Chance while You Have a Barrier
+
+Lucky Hit: Up to a +[13 - 20]% Chance to Slot
+
++[10 - 18] Maximum Essence
+
++[6 - 12] Maximum Fury
+
++[10 - 18] Maximum Spirit
+
++[0.02 - 0.048] Life On Kill
+
++[7 - 14]% Overpower Damage with Two-Handed Bludgeoning Weapons
+
+[17.5 - 31.5]% Maximum Minion Life
+
+Warriors Inherit +[4.2 - 7]% of Your Thorns
+
+[24.5 - 45.5]% Fire Resistance
+
+[24.5 - 45.5]% Poison Resistance
+
+[9.5 - 16.5]% Fury Cost Reduction
+
+[4.2 - 7]% Spirit Cost Reduction
+
+[9.5 - 16.5]% Energy Cost Reduction
+
+[4.2 - 7]% Mana Cost Reduction
+
++[5 - 12]% Shrine Buff Duration
+
+Reduces the Arm Time of Your Trap Skills by [0.1 - 0.2] 4Second:Seconds;
+
++[4.4 - 10]% Basic Skill Attack Speed
+
++[14 - 21]% Berserking Duration
+
+[5 - 12]% Control Impaired Duration
+Reduction
+
+[4.4 - 10]% Trap Skill Cooldown Reduction
+
++[49 - 63] Dexterity
+
++[28 - 42] Strength
+
++[49 - 63] Willpower
+
++[3 - 8]% Critical Strike Chance
+
++[3 - 8]% Critical Strike Chance Against Injured Enemies
+
++[14 - 21]% Critical Strike Damage with Earth Skills
+
++[14 - 21]% Critical Strike Damage with Werewolf Skills
+
+[9.5 - 16.5]% Damage Reduction from Close Enemies
+
+[7 - 14]% Damage Reduction from Enemies That Are Bleeding
+
+[7 - 14]% Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time
+
++[7 - 14]% Damage Over Time
+
++[7 - 14]% Bone Skill Damage
+
++[14 - 21]% Conjuration Skill Damage
+
++[7 - 14]% Frost Skill Damage
+
++[7 - 14]% Pyromancy Skill Damage
+
++[7 - 14]% Storm Skill Damage
+
++[14 - 21]% Weapon Mastery Skill Damage
+
++[7 - 14]% Cold Damage
+
++[7 - 14]% Physical Damage
+
++[7 - 14]% Physical Damage Over Time
+
++[14 - 21]% Ultimate Skill Damage
+
++[7 - 14]% Damage with Two-Handed Slashing Weapons
+
++[7 - 14]% Damage while in Human
+
++[7 - 14]% Damage to Bleeding Enemies
+
++[7 - 14]% Damage to Chilled Enemies
+
++[7 - 14]% Damage to Freeze Enemies
+
++[7 - 14]% Damage to Poisoned Enemies
+
++[16.5 - 23.5]% Damage to Stun Enemies
+
+[3 - 5.8]% Dodge Chance
+
+Lucky Hit: Up to a +[4.4 - 10]% Chance to Execute Injured Non-Elites
+
++[0.12 - 0.26] Maximum Life
+
++[3.2 - 6]% Lucky Hit Chance
+
+Lucky Hit: Up to a 5% Chance to Heal +[0.175 - 0.315] Life
+
++[10 - 18] Maximum Energy
+
++[6 - 12] Maximum Essence
+
++[10 - 18] Maximum Mana
+
++[6 - 12] Maximum Spirit
+
++[21 - 42}}1%] Overpower Damage
+
++[21 - 42]% Overpower Damage with Werebear Skills
+
+Golem Inherit +[4.2 - 7]% of Your Thorns
+
++[2 - 3] Potion Capacity
+
+[24.5 - 45.5]% Cold Resistance
+
+[24.5 - 45.5]% Shadow Resistance
+
+[4.2 - 7]% Fury Cost Reduction
+
+[9.5 - 16.5]% Essence Cost Reduction
+
+[4.2 - 7]% Energy Cost Reduction
+
+[4.4 - 10]% Storm Skill Cooldown Reduction
+
++[0.14 - 0.28] Thorns
+
++[7 - 14]% Total Armor while in Werebear Form
+

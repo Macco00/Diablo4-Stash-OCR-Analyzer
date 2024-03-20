@@ -1,0 +1,44 @@
+* Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a 40 [40 - 20] second Cooldown. 
+* Lucky Hit: Critical Strikes with Marksman Skills have up to a 54% [40 - 60]% chance to grant a free Dark Shroud shadow. (Rogue Only) 
+* Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a 40 [40 - 20] second Cooldown. 
+* Skills deal up to 20%[x] [20 - 40]% increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. 
+* Your Imbuement Skill effects have 64%[x] [40 - 80]% increased potency against Vulnerable enemies. (Rogue Only) 
+* Barrage's arrows have a 15% [15 - 25]% chance to split into 2 arrows whenever they ricochet. (Rogue Only) 
+* Your Imbuement Skill effects have 28%[x] [20 - 40]% increased potency against Vulnerable enemies. (Rogue Only) 
+* Barrage's arrows have a 17% [15 - 25]% chance to split into 2 arrows whenever they ricochet. (Rogue Only) 
+* Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a 28 [40 - 20] second Cooldown. 
+* Barrage's arrows have a 18% [15 - 25]% chance to split into 2 arrows whenever they ricochet. (Rogue Only) 
+* When a Dark Shroud shadow would be removed you trigger an explosion around yourself that deals 295 [288 - 354] Shadow damage. (Rogue Only) 
+* Skills deal up to 14%[x] [10 - 20]% increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. 
+* Your Imbuement Skill effects have 36%[x] [20 - 40]% increased potency against Vulnerable enemies. (Rogue Only) 
+* You gain 0.45%[x] [0.38 - 0.75]% increased Armor for 4 seconds when you deal any form of damage, stacking up to 27.00%[x] [22.50 - 45.00]%. 
+* You gain 0.67%[x] [0.38 - 0.75]% increased Armor for 4 seconds when you deal any form of damage, stacking up to 40.50%[x] [22.50 - 45.00]%. 
+* You take 27.0% [22.5 - 37.5]% less damage from Crowd Controlled enemies. Whenever a Crowd Controlled enemy deals direct damage to you, gain 15%[+] Movement Speed for 2 seconds. (Rogue Only) 
+* You take 31.5% [22.5 - 37.5]% less damage from Crowd Controlled enemies. Whenever a Crowd Controlled enemy deals direct damage to you, gain 15%[+] Movement Speed for 2 seconds. (Rogue Only) 
+* When you cast Dash, a Shadow Clone is spawned at your location that also casts Dash, dealing 84% [80 - 100]% of the Base damage. (Rogue Only) 
+* Using an Agility Skill reduces the Cooldown of your next Subterfuge Skill by 20%. Using a Subterfuge Skill increases the damage of your next Agility Skill by 23%[x] [10 - 30]%. (Rogue Only) 
+* Your Shadow Clones also mimic the Imbuements applied to your Skills. Casting an Imbuement Skill grants your active Shadow Clone 13%[x] [8 - 16]% increased damage for 9 seconds. (Rogue Only) 
+* Skills deal up to 12%[x] [10 - 20]% increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. 
+* Chilled enemies hit by your Grenade Skills have a chance equal to double your Critical Strike Chance to be instantly Frozen for 2 seconds. You deal 10%[x] [10 - 25]% increased Critical Strike Damage against Frozen enemies. (Rogue Only) 
+* Evading through an enemy infected by Shadow Imbuement grants Stealth for 4 seconds. Breaking Stealth with an attack grants you 3% [1 - 5]% Maximum Life on Kill for 6 seconds. (Rogue Only) 
+* Whenever Penetrating Shot damages an enemy, 2 additional arrows split off to either side. These side arrows deal 11% [10 - 25]% of Penetrating Shot's Base damage and do not split. (Rogue Only) 
+* Dealing direct damage to a Dazed Enemy with an Agility Skill grants Stealth for 4 seconds. Breaking Stealth  with an attack grants you 20% [15 - 45]% Control Impaired Duration 
+* Whenever Penetrating Shot damages an enemy, 2 additional arrows split off to either side. These side arrows deal 13% [10 - 25]% of Penetrating Shot's Base damage and do not split. (Rogue Only) 
+* Each Chilled or Frozen enemy you Evade through grants you a Barrier that absorbs 128 [68 - 136] damage for 5 seconds, absorbing up to a maximum of 639 [341 - 681] damage. (Rogue Only) 
+* Barrage's arrows have a 18% [15 - 25]% chance to split into 2 arrows whenever they ricochet. (Rogue Only) 
+* Your Grenade Skills count as Trap Skills. Whenever you arm a Trap or drop Grenades, you gain 15%[+] [10 - 18]% increased Movement Speed for 3 seconds. (Rogue Only) 
+* Skills deal up to 20%[x] [10 - 20]% increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. 
+* When you cast Dash, a Shadow Clone is spawned at your location that also casts Dash, dealing 82% [80 - 100]% of the Base damage. (Rogue Only) 
+* Lucky Hit: Dealing direct damage to a Vulnerable enemy has up to a 33% [25 - 45]% chance to Daze them for 2 seconds. (Rogue Only) 
+* Gain a free Dark Shroud shadow every 3 seconds when standing still. Each Dark Shroud shadow grants 4.0% [2.0 - 4.0]% increased Damage Reduction. (Rogue Only) 
+* Lucky Hit: Making an enemy Vulnerable has up to a 58% [40 - 60]% chance to grant 3%[+] increased Critical Strike Chance for 3 seconds, up to 9%[+]. (Rogue Only) 
+* When you cast Dash, a Shadow Clone is spawned at your location that also casts Dash, dealing 123% [120 - 150]% of the Base damage. (Rogue Only) 
+* You gain 20%[x] [20 - 40]% increased Movement Speed when moving away from Slowed or Chilled enemies. 
+* Basic Skills gain 50%[+] [30 - 60]% Attack Speed. 
+* While Unstoppable and for 4 seconds after, you gain 24%[+] [15 - 38]% increased Movement Speed and can move freely through enemies. 
+* Your Shadow Clones also mimic the Imbuements applied to your Skills. Casting an Imbuement Skill grants your active Shadow Clone 15%[x] [8 - 16]% increased damage for 9 seconds. (Rogue Only) 
+* Lucky Hit: Critical Strikes with Poison Imbued Skills have up to a 10% chance to create a toxic pool that deals 2,690 [2,152 - 2,690] Poisoning damage over 3 seconds to enemies within. While standing in the pool, your Poison Imbuement Skill has no Cooldown and no Charge limit. (Rogue Only) 
+* Killing a Vulnerable enemy grants you 68%[x] [50 - 70]% increased Energy Regeneration for 4 seconds. (Rogue Only) 
+* Your Grenade Skills count as Trap Skills. Whenever you arm a Trap or drop Grenades, you gain 10%[+] [10 - 18]% increased Movement Speed for 3 seconds. (Rogue Only) 
+* Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a 28 [40 - 20] second Cooldown. 
+* Damaging an Elite enemy grants you a Barrier absorbing up to 1,748 [1,748 - 3,497] damage for 10 seconds. This effect can only happen once every 30 seconds. 

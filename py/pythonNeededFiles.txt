@@ -1,0 +1,3 @@
+"pyautogui"
+"open cv2" for image rec
+"tesseract ocr" for text  rec (https://www.youtube.com/watch?v=PY_N1XdFp4w&t=692s)
