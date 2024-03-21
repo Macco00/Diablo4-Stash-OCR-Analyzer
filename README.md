@@ -27,10 +27,6 @@ enemies. Whenever a Crowd
 Controlled enemy deals direct
 damage to you, gain 15%[+]
 Movement Speed for 2 seconds.
-
-
-
-
 (Rogue Only)
 
 Back to AutoHotkey, using these text files, all marked items get a GUI element written on top of them displaying if it’s a wanted aspect, and/or a duplicate.
